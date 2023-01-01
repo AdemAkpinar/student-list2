@@ -1,1 +1,1 @@
-![Önizleme](https://github.com/AdemAkpinar/pokedex-search-bar/blob/main/Readme.gif)
+![Önizleme](https://github.com/AdemAkpinar/student-list/blob/main/Readme.gif)
