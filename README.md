@@ -1,1 +1,1 @@
-![Önizleme](https://github.com/AdemAkpinar/student-list/blob/main/Readme.gif)
+![Önizleme](https://github.com/AdemAkpinar/student-list2/blob/main/Readme.gif)
