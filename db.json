@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1672583676837",
+      "name": "aaa2",
+      "surname": "aaa2",
+      "studentClass": "aaa2",
+      "schoolName": "aaa2",
+      "studentNo": "110"
+    },
+    {
+      "id": "1672583691539",
+      "name": "sss",
+      "surname": "ddd",
+      "studentNo": "102",
+      "studentClass": "fff",
+      "schoolName": "ggg"
+    },
+    {
+      "id": "1672583715088",
+      "name": "zzz",
+      "surname": "xxx",
+      "studentNo": "103",
+      "studentClass": "ccc",
+      "schoolName": "vvv"
+    },
+    {
+      "id": "1672583897774",
+      "name": "mmm",
+      "surname": "mmm",
+      "studentNo": "111",
+      "studentClass": "mmm",
+      "schoolName": "mmm"
+    }
+  ]
+}
